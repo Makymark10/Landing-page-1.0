@@ -1,0 +1,20 @@
+@import 'config';
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import 'menu-nav';
+@import 'home';
+
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background: url(../img/bg-body.jpg);
+}
+nav {
+  font-family: "Raleway";
+  * {
+  box-sizing: border-box;
+  
+  }
+}
+
+
